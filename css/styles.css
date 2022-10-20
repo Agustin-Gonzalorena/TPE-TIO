@@ -107,3 +107,6 @@ main {
 .card {
     margin-bottom: 30px;
 }
+.principal-card{
+    width: 80%;
+}
