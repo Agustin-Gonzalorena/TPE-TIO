@@ -107,6 +107,20 @@ main {
 .card {
     margin-bottom: 30px;
 }
-.principal-card{
+
+.principal-card {
     width: 80%;
+}
+
+/* ---about--- */
+.containerAbout {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.containerAbout img {
+    height: 250px;
 }
